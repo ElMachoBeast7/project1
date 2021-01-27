@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RSS Reader</string>
+    <string name="article_name">Article Name</string>
+    <string name="feed_date">feed date</string>
+    <string name="title">Title</string>
+    <string name="visit_website">Visit Website</string>
+    <string name="button">Button</string>
+    <string name="summary">Summary</string>
+    <string name="title_of_article">Title of Article</string>
+    <string name="date">Date</string>
+    <string name="news_article">News Article</string>
+    <string name="activity_date">activity date</string>
+    <string name="activitytitle">activitytitle</string>
+    <string name="feed_name">Feed Name</string>
+    <string name="category">Category</string>
+    <string name="image">image</string>
+    <string name="right_arrow">right arrow</string>
+    <string name="website">VISIT WEBSITE</string>
+    <string name="decorative">decorative</string>
+    <string name="pretty_arrow">pretty arrow</string>
+</resources>
